@@ -1,22 +1,31 @@
 <h1 align="left">✌️ Hi, I'm Décio Sousa</h1>
 
-Junior Web Developer.
+My journey began with learning **programming**, which gave me a clear understanding of the software development lifecycle and sparked my interest in **DevOps** and **DevSecOps**. The combination of **development**, **automation**, and **security** motivated me to pursue this path.
 
-🎯 I am a lawyer and currently in a career transition to the programming area.
+Here, you will find practical projects I have developed, such as:
 
-👨‍💻 Enthusiastic about the lines of code, I completed full stack training and, at the moment, I'm focused on learning more about front-end technologies to develop solutions that make people's lives easier
-<br><br>
+✅ **Creating and automating resources in AWS**  
+✅ **Orchestrating containers with Kubernetes**  
+✅ **Configuring web servers**  
+✅ **Automating scripts for process validation**  
+
+Currently, I continue studying and working on personal projects to strengthen my technical skills and contribute to **scalable** and **secure solutions**.
+
+---
+
+💡 **Areas of Interest:**  
+- DevOps | DevSecOps | Cloud Computing | Information Security  
+
+📚 **Currently Learning:**  
+- AWS | Kubernetes | Script Automation | CI/CD  
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
