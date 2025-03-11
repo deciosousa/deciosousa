@@ -1,9 +1,10 @@
 <h1 align="left">✌️ Hi, I'm Décio Sousa</h1>
 
-My journey began with learning **programming**, which gave me a clear understanding of the software development lifecycle and sparked my interest in **DevOps** and **DevSecOps**. The combination of **development**, **automation**, and **security** motivated me to pursue this path.
+My journey began with learning programming, which gave me a basic understanding of some **front-end and back-end languages** and, most importantly, the software development lifecycle. The importance of integrating **security** into the development stages sparked my interest in **DevSecOps** and motivates me to pursue this path.
 
 Here, you will find practical projects I have developed, such as:
 
+✅ **Laboratórios de aplicações web desenvolvidos para estudo**   
 ✅ **Creating and automating resources in AWS**  
 ✅ **Orchestrating containers with Kubernetes**  
 ✅ **Configuring web servers**  
@@ -14,10 +15,10 @@ Currently, I continue studying and working on personal projects to strengthen my
 ---
 
 💡 **Areas of Interest:**  
-- DevOps | DevSecOps | Cloud Computing | Information Security  
+-  Cibersecurity | DevSecOps | Cloud Computing  
 
 📚 **Currently Learning:**  
-- AWS | Kubernetes | Script Automation | CI/CD  
+- AWS | Linux | Script Automation | Information Security   
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,9 +29,9 @@ Currently, I continue studying and working on personal projects to strengthen my
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-<br><br>
+<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)-->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
