@@ -6,10 +6,9 @@ Here, you will find practical projects I have developed, such as:
 
 ✅ **Laboratórios de aplicações web desenvolvidos para estudo**   
 ✅ **Creating and automating resources in AWS**  
-✅ **Orchestrating containers with Kubernetes**  
 ✅ **Configuring web servers**  
 ✅ **Automating scripts for process validation**  
-
+<!--✅ **Orchestrating containers with Kubernetes**-->
 Currently, I continue studying and working on personal projects to strengthen my technical skills and contribute to **scalable** and **secure solutions**.
 
 ---
